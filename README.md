@@ -6,5 +6,5 @@ I've crafted an immersive Parallax Scrolling Website, where elements move at dif
 https://parallax-jungle-theme-rahil1202.netlify.app/
 
 ## Technologies
- 'HTML' 
- 'CSS'
+ HTML <br>
+ CSS
